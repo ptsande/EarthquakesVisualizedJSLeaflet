@@ -1,2 +1,1 @@
-# HW17leaflet
-Creating a web visualization using Leaflet and data from the USGS
+Creating a web visualization to explore recent earthquakes. This project uses Leaflet and data from the USGS GeoJSON feed.
